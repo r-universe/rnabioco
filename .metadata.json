@@ -1,5 +1,9 @@
 [
   {
+    "package": "ggtrace",
+    "oncran": true
+  },
+  {
     "package": "valr",
     "oncran": true
   }

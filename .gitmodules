@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggtrace"]
+	path = ggtrace
+	url = https://github.com/rnabioco/ggtrace
+	shallow = true
+	registered = true
 [submodule "valr"]
 	path = valr
 	url = https://github.com/rnabioco/valr
