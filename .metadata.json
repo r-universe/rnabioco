@@ -6,5 +6,8 @@
   {
     "package": "valr",
     "oncran": true
+  },
+  {
+    "package": "clustifyr"
   }
 ]
