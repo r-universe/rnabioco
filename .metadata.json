@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "valr",
-    "oncran": true
+    "package": "clustifyr"
   },
   {
-    "package": "clustifyr"
+    "package": "valr",
+    "oncran": true
   }
 ]
