@@ -1,10 +1,10 @@
 [
   {
-    "package": "ggtrace",
-    "oncran": true
+    "package": "clustifyr"
   },
   {
-    "package": "clustifyr"
+    "package": "ggtrace",
+    "oncran": true
   },
   {
     "package": "valr",
