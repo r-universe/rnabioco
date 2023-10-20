@@ -8,6 +8,9 @@
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/rnabioco/ggtrace
+[submodule "raer"]
+	path = raer
+	url = https://github.com/rnabioco/raer
 [submodule "valr"]
 	path = valr
 	url = https://github.com/rnabioco/valr
