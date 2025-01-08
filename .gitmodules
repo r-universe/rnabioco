@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cpp11bigwig"]
+	path = cpp11bigwig
+	url = https://github.com/rnabioco/cpp11bigwig
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/rnabioco/ggtrace
